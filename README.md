@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Juliana Azevedo 🥰
 
 - 🔭 Trabalho com Suporte Técnico
-- 🌱 Desenvolvimento Full Stack
-- 📚 Sistemas de Informação - 8º Semestre
+- 🌱 Especializada em Desenvolvimento Full Stack
+- 📚 Formada em Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/JulianaAzevedo18">
